@@ -1,0 +1,11 @@
+body {
+  background: #fafafa;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.container {
+  background: rgb(0, 13, 24);
+}
+.container .title {
+  color: #fff;
+  padding: 10px;
+}
